@@ -1,0 +1,9 @@
+.cafes-container {
+    height: 500px;
+}
+
+.add-new-cafe-btn-container {
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: flex-end;
+}

@@ -1,0 +1,37 @@
+
+.main-header .logo-text {
+  float: left;
+  color: #fff;
+  font-size: 23px;
+  font-weight: 500;
+}
+
+.main-header .menu-items{
+  justify-content: flex-end;
+}
+
+.main-footer {
+  text-align: center;
+}
+
+.main-container {
+  padding: 50px;
+}
+
+.form-title-container {
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.form-title-container .action-btn-container {
+  margin-left: auto;
+}
+
+.form-title-container .action-btn-container button {
+  margin-left: auto;
+}
+
+.form-container {
+  background-color: #fff;
+  padding: 20px;;
+}

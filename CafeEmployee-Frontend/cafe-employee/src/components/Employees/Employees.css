@@ -1,0 +1,12 @@
+.employees-container {
+    height: 500px;
+}
+
+.employee-header {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.add-new-employee-btn-container {
+    margin-left: auto;
+}
